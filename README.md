@@ -1,2 +1,2 @@
-# Birthday Card 🎂 
-Responsive Birthday Card - Made with Jquery and CSS
+# Valentine Card 🎂 
+Responsive Valentine Card - Made with Jquery and CSS
